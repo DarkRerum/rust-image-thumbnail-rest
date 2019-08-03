@@ -1,0 +1,5 @@
+[package]
+
+name = "image-thumbnail"
+version = "0.0.1"
+authors = [ "Nikita Sinyaev <sinyaev.n.s@gmail.com>" ]
