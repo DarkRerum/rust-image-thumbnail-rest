@@ -3,3 +3,7 @@
 name = "image-thumbnail"
 version = "0.0.1"
 authors = [ "Nikita Sinyaev <sinyaev.n.s@gmail.com>" ]
+
+[dependencies]
+image = "0.22.1"
+reqwest = "0.9.19"
